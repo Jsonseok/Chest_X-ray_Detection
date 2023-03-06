@@ -1,7 +1,8 @@
 # Chest_X-ray_Detection
 
 ## 프로젝트 목적
-    ![223024754-c56526c3-312a-48b5-81ab-43ec769b74fa](https://user-images.githubusercontent.com/112038669/223091557-bce92a7c-3e05-47fe-a904-00f7b608a02f.png)
+![223024754-c56526c3-312a-48b5-81ab-43ec769b74fa](https://user-images.githubusercontent.com/112038669/223091663-2781cccc-eb1a-45ec-a668-f96d71b522d4.png)
+
   - 미국의학협회 내과 저널(JAMA Internal Medicine)10일자에 발표된 자료에 의하면 의사의 진단의 평균 정확도는 72%, ai의 평균 정확도는 34%
   - 의사의 평균적인 진찰 정확도가 보다 높을지 언정, 의사의 진찰의 경우 개인의 능력에 따라 정확도가 크게 차이가 있음
   - 이러한 문제를 해결함과 동시에 진찰의 궁극적 목적인 오진율 0%를 달성하기 위해 의사가 진찰시 참고할 수 있는 ai를 개발하고자 프로젝트 진행
