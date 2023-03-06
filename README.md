@@ -31,5 +31,5 @@
 
 
 
-##참조
+## 참조
 https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2565684
