@@ -23,9 +23,15 @@
   - Data Augumentation:
     - Rotation, Vertical Flip, Horizontal Flip 사용
       - 채용 이유: 이미지 내의 병변 부위를 손상시키지 않는 augumentation 기법만을 채용
-         ![화면 캡처 2023-03-06 194151](https://user-images.githubusercontent.com/112038669/223087864-12fa8a37-f0e3-4509-a08f-53a56593a661.png)
-
-
+      ![화면 캡처 2023-03-06 194151](https://user-images.githubusercontent.com/112038669/223087864-12fa8a37-f0e3-4509-a08f-53a56593a661.png)
+     
+## 모델 선정
+  - YoloV5:
+    - 선정 이유:
+      -
+  - Detectron2
+  - Fast RCNN
+ 
 
 
 
