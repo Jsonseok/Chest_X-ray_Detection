@@ -37,14 +37,18 @@
     - 특징:
       - Mask RCNN을 벤치마킹하여 만들어진 detection/segmentation library
       - pytorch 기반
-      - 기존 Detectron 과 Mask RCNN보다 빠르고 정확한 연
+      - 기존 Detectron 과 Mask RCNN보다 빠르고 정확한 연산
 
 
     - 선정 이유:
       ![images_junyoung9696_post_914c874a-09b4-4b92-8d9c-bbee5b6c0d06_7](https://user-images.githubusercontent.com/112038669/223391009-717b1914-f08a-4460-9b92-f382a9c934f8.png)
-      -  모듈화되어 있어 다양한 model을 활용할 수 있으며 기존 model보다 높은 성능을 보여 채용
+      - 모듈화 돼 있어 추가적인 코드 없이 다양한 model을 사용할 수 있으며 기존 library와 model보다 평균적으로 높은 성능과 빠른 연산을 보이기에 채용 
 
-      - 
+  - Ensemble:
+    - WBF Ensemble 사용:
+      ![화면 캡처 2023-03-07 193105](https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png)
+      - 예측된 bounding box 중 score가 가장 높은 bounding box을 남기는 NMS Ensemble과 달리 정해둔 threshold값 이상인 bounding box들을 융합하여 새로운 bounding box를 만들어내는 ensemble 기법
+      
  
 
 
