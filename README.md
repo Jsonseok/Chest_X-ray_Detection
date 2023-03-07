@@ -35,14 +35,15 @@
 
   - Detectron2:
     - 특징:
-      - pytorch 기반:
-         seed 고정이 용이하기 때문에 결과값을 재현이 쉬움
-      - Mask RCNN을 벤치마킹한 model:
-         input feature의 정확한 값을 계산 함으로써 feature 사이의 오정렬로 인한 문제를 해결하고 성능을 극대화 시킴
+      - Mask RCNN을 벤치마킹하여 만들어진 detection/segmentation library
+      - pytorch 기반
+      - 기존 Detectron 과 Mask RCNN보다 빠르고 정확한 연
+
+
     - 선정 이유:
-      -  기존의 단점을 보완하고 이를 통해 높은 성능을 보여주기에 채용
-  - mmdetection:
-    - 특징:
+      ![images_junyoung9696_post_914c874a-09b4-4b92-8d9c-bbee5b6c0d06_7](https://user-images.githubusercontent.com/112038669/223391009-717b1914-f08a-4460-9b92-f382a9c934f8.png)
+      -  모듈화되어 있어 다양한 model을 활용할 수 있으며 기존 model보다 높은 성능을 보여 채용
+
       - 
  
 
