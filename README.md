@@ -56,7 +56,10 @@
         ![화면 캡처 2023-03-07 193105](https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png)
       
 
-## 모델 평가
+## 모델 결과 및 평가
+  ![화면 캡처 2023-03-09 155634](https://user-images.githubusercontent.com/112038669/223944390-04f4c511-9270-49ed-b063-f49587ae8996.png)
+
+
 
 
 
@@ -64,3 +67,6 @@
 
 ## 참조
 https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2565684
+https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/overview
+https://github.com/open-mmlab/mmdetection
+https://github.com/facebookresearch/detectron2
