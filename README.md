@@ -30,6 +30,7 @@
     - 특징:
       - 높은 정확도
       - 빠른 연산 속도
+      
     - 선정 이유:
        - 기본적인 성능이 높으며 대용량 이미지를 사용하기 때문에 한번의 연산 속도가 빠른 model을 채용
 
@@ -39,19 +40,24 @@
       - pytorch 기반
       - 기존 Detectron 과 Mask RCNN보다 빠르고 정확한 연산
 
-
     - 선정 이유:
       ![images_junyoung9696_post_914c874a-09b4-4b92-8d9c-bbee5b6c0d06_7](https://user-images.githubusercontent.com/112038669/223391009-717b1914-f08a-4460-9b92-f382a9c934f8.png)
       - 모듈화 돼 있어 추가적인 코드 없이 다양한 model을 사용할 수 있으며 기존 library와 model보다 평균적으로 높은 성능과 빠른 연산을 보이기에 채용 
+      
+  - MMDetection:
+    - 특징:
+      - modulatr design을 통해 다양한 모델을 구성가능
+      - pytorch기반
+    - 선정 이유:
+      - open library 중 detectron2에 다음가는 정확도와 연산 속도를 갖고 있으며 detectron2와 YoloV5와 같이 pytorch를 기반으로 하고 있어 채용
 
   - Ensemble:
     - WBF Ensemble 사용:
-
       - 예측된 bounding box 중 score가 가장 높은 bounding box을 남기는 NMS Ensemble과 달리 정해둔 threshold값 이상인 bounding box들을 융합하여 새로운 bounding box를 만들어내는 ensemble 기법
         ![화면 캡처 2023-03-07 193105](https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png)
       
- 
 
+## 모델 평가
 
 
 
