@@ -41,7 +41,6 @@
       - 기존 Detectron 과 Mask RCNN보다 빠르고 정확한 연산
 
     - 선정 이유:
-      ![images_junyoung9696_post_914c874a-09b4-4b92-8d9c-bbee5b6c0d06_7](https://user-images.githubusercontent.com/112038669/223391009-717b1914-f08a-4460-9b92-f382a9c934f8.png)
       - 모듈화 돼 있어 추가적인 코드 없이 다양한 model을 사용할 수 있으며 기존 library와 model보다 평균적으로 높은 성능과 빠른 연산을 보이기에 채용 
       
   - MMDetection:
