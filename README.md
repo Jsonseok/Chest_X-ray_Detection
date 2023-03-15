@@ -57,7 +57,8 @@
       
 
 ## 모델 결과 및 평가
-  ![화면 캡처 2023-03-09 155634](https://user-images.githubusercontent.com/112038669/223944390-04f4c511-9270-49ed-b063-f49587ae8996.png)
+  ![화면 캡처 2023-03-15 153046](https://user-images.githubusercontent.com/112038669/225225415-10f87740-b504-47c6-9249-9afa677c6d8f.png)
+
 
 
 
