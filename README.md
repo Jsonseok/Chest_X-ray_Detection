@@ -28,6 +28,7 @@
 ## 모델 선정
   - YoloV5:
     - 특징:
+      - pytorch 기반
       - 높은 정확도
       - 빠른 연산 속도
       
@@ -36,17 +37,19 @@
 
   - Detectron2:
     - 특징:
-      - Mask RCNN을 벤치마킹하여 만들어진 detection/segmentation library
       - pytorch 기반
       - 기존 Detectron 과 Mask RCNN보다 빠르고 정확한 연산
+      - Mask RCNN을 벤치마킹하여 만들어진 detection/segmentation library
+
 
     - 선정 이유:
       - 모듈화 돼 있어 추가적인 코드 없이 다양한 model을 사용할 수 있으며 기존 library와 model보다 평균적으로 높은 성능과 빠른 연산을 보이기에 채용 
       
   - MMDetection:
     - 특징:
+      - pytorch 기반
       - modulatr design을 통해 다양한 모델을 구성가능
-      - pytorch기반
+
     - 선정 이유:
       - open library 중 detectron2에 다음가는 정확도와 연산 속도를 갖고 있으며 detectron2와 YoloV5와 같이 pytorch를 기반으로 하고 있어 채용
 
