@@ -3,7 +3,7 @@
 ## 🫁 프로젝트 소개
 
 * ### 프로젝트 주제
-  - X-ray 사진내의 병변 부위를 검출, 해당 
+  - X-ray 사진내의 병변 부위를 검출, 해당 부위가 어떤 병에 걸렸는지 14개의 병명 라벨로 분류
    
 * ### 프로젝트 목적 
   - 미국의학협회 내과 저널(JAMA Internal Medicine)10일자에 발표된 자료에 의하면 의사의 진단의 평균 정확도는 72%, ai의 평균 정확도는 34%
@@ -18,9 +18,15 @@
 ---
 
 ## 🫁 데이터 분석 
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/223038259-23b052f4-43df-4834-a48e-53cbfd5bef4c.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672556-5c3d02b5-f1db-4ab4-ab81-2680a8322434.png" width="80%" height="80%"></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/223042000-cdfe031d-580c-4673-8fef-5c03e88b8751.png" width="80%" height="80%"></p>
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672417-0eaa8c3e-059e-4f98-af06-8da930db510f.png" width="80%" height="80%"></p>
+  - 14개의 병변 라벨과 1개의 정상 라벨
+  - pascal VOC형식의 Bounding Box 좌
+
+
 ---
 
 ## 🫁 데이터 전처리
