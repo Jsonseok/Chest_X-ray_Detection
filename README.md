@@ -48,7 +48,7 @@
     - 선정 이유:
        - 기본적인 성능이 높으며 대용량 이미지를 사용하기 때문에 한번의 연산 속도가 빠른 model을 채용
 
-* ### Detectron2(fast RCNN):
+* ### Detectron2(Fast RCNN):
     - 특징:
       - pytorch 기반
       - 기존 Detectron 과 Mask RCNN보다 빠르고 정확한 연산
@@ -56,7 +56,7 @@
     - 선정 이유:
       - 모듈화 돼 있어 추가적인 코드 없이 다양한 model을 사용할 수 있으며 기존 library와 model보다 평균적으로 높은 성능과 빠른 연산을 보이기에 채용 
       
-* ### MMDetection(fast RCNN):
+* ### MMDetection(Fast RCNN):
     - 특징:
       - pytorch 기반
       - modulatr design을 통해 다양한 모델을 구성가능
@@ -70,8 +70,7 @@
 ---
 
 ## 🫁 모델 결과
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/225225415-10f87740-b504-47c6-9249-9afa677c6d8f.png" width="80%" height="80%"></p>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229673701-09d001de-0b53-4e3c-9eac-df8f08efcce7.png" width="80%" height="80%"></p>
 
 
 
