@@ -18,9 +18,9 @@
 ---
 
 ## 🫁 데이터 분석 
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/223038259-23b052f4-43df-4834-a48e-53cbfd5bef4c.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/223038259-23b052f4-43df-4834-a48e-53cbfd5bef4c.png" width="80%" height="80%"></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/223042000-cdfe031d-580c-4673-8fef-5c03e88b8751.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/223042000-cdfe031d-580c-4673-8fef-5c03e88b8751.png" width="80%" height="80%"></p>
 ---
 
 ## 🫁 데이터 전처리
@@ -32,7 +32,7 @@
   - Rotation, Vertical Flip, Horizontal Flip 사용
     - 채용 이유: 이미지 내의 병변 부위를 손상시키지 않는 augumentation 기법만을 채용
 
-     <p align="center"><img src="https://user-images.githubusercontent.com/112038669/223087864-12fa8a37-f0e3-4509-a08f-53a56593a661.png" width="50%" height="50%"></p>
+     <p align="center"><img src="https://user-images.githubusercontent.com/112038669/223087864-12fa8a37-f0e3-4509-a08f-53a56593a661.png" width="80%" height="80%"></p>
      
 ## 🫁 모델 선정
 * ### YoloV5:
