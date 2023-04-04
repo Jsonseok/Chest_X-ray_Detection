@@ -1,7 +1,7 @@
 # Chest_X-ray_Detection
 
 ## 프로젝트 목적
-![223024754-c56526c3-312a-48b5-81ab-43ec769b74fa](https://user-images.githubusercontent.com/112038669/223091663-2781cccc-eb1a-45ec-a668-f96d71b522d4.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/223091663-2781cccc-eb1a-45ec-a668-f96d71b522d4.png" width="50%" height="50%"></p>
 
   - 미국의학협회 내과 저널(JAMA Internal Medicine)10일자에 발표된 자료에 의하면 의사의 진단의 평균 정확도는 72%, ai의 평균 정확도는 34%
   - 의사의 평균적인 진찰 정확도가 보다 높을지 언정, 의사의 진찰의 경우 개인의 능력에 따라 정확도가 크게 차이가 있음
