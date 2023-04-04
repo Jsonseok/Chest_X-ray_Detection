@@ -60,14 +60,12 @@
 
 * ### WBF Ensemble:
       - 예측된 bounding box 중 score가 가장 높은 bounding box을 남기는 NMS Ensemble과 달리 정해둔 threshold값 이상인 bounding box들을 융합하여 새로운 bounding box를 만들어내는 ensemble 기법
-        ![화면 캡처 2023-03-07 193105](https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png)
+![화면 캡처 2023-03-07 193105](https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png)
       
 ---
 
 ## 🫁 모델 결과
-  ![화면 캡처 2023-03-15 153046](https://user-images.githubusercontent.com/112038669/225225415-10f87740-b504-47c6-9249-9afa677c6d8f.png)
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/225225415-10f87740-b504-47c6-9249-9afa677c6d8f.png" width="80%" height="80%"></p>
 
 
 
