@@ -70,8 +70,7 @@
 ---
 
 ## 🫁 모델 결과
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229673701-09d001de-0b53-4e3c-9eac-df8f08efcce7.png" width="50%" height="50%"></p>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229686688-a0825945-d30c-443a-9f04-c9403f00f198.png" width="50%" height="50%"></p>
 
 
 
