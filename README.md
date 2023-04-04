@@ -18,11 +18,11 @@
 ---
 
 ## 🫁 데이터 분석 
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672556-5c3d02b5-f1db-4ab4-ab81-2680a8322434.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672556-5c3d02b5-f1db-4ab4-ab81-2680a8322434.png" width="50%" height="50%"></p>
 
 
 - 각 라벨에 따른 데이터 양 비교
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672417-0eaa8c3e-059e-4f98-af06-8da930db510f.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672417-0eaa8c3e-059e-4f98-af06-8da930db510f.png" width="50%" height="50%"></p>
 
 
 
@@ -66,11 +66,11 @@
 * ### WBF Ensemble:
     - 예측된 bounding box 중 score가 가장 높은 bounding box을 남기는 NMS Ensemble과 달리 정해둔 threshold값 이상인 bounding box들을 융합하여 새로운 bounding box를 만들어내는 ensemble 기법
       
-     <p align="center"><img src="https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png" width="60%" height="60%"></p> 
+     <p align="center"><img src="https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png" width="50%" height="50%"></p> 
 ---
 
 ## 🫁 모델 결과
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229673701-09d001de-0b53-4e3c-9eac-df8f08efcce7.png" width="60%" height="60%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229673701-09d001de-0b53-4e3c-9eac-df8f08efcce7.png" width="50%" height="50%"></p>
 
 
 
