@@ -21,10 +21,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672556-5c3d02b5-f1db-4ab4-ab81-2680a8322434.png" width="80%" height="80%"></p>
 
 
-
+- 각 라벨에 따른 데이터 양 비교
 <p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672417-0eaa8c3e-059e-4f98-af06-8da930db510f.png" width="80%" height="80%"></p>
-- 14개의 병변 라벨과 1개의 정상 라벨
-- pascal VOC형식의 Bounding Box 좌표
+
 
 
 ---
