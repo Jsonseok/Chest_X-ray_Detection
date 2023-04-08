@@ -62,7 +62,7 @@
       - open library 중 detectron2에 다음가는 정확도와 연산 속도를 갖고 있으며 detectron2와 YoloV5와 같이 pytorch를 기반으로 하고 있어 채용
 
 * ### WBF Ensemble:
-    - 예측된 bounding box 중 score가 가장 높은 bounding box을 남기는 NMS Ensemble과 달리 정해둔 threshold값 이상인 bounding box들을 융합하여 새로운 bounding box를 만들어내는 ensemble 기법
+    - 단일 모델의 bounding box 중 한개를 남기는 NMS Ensemble 기법으로는 단일 모델이상의 성능을 보장받기란 어렵다고 판단하여, 기존의 bounding box를 융합하여 새로운 bounding box를 만들어내는 WBF Ensemble을 채용
       
      <p align="center"><img src="https://user-images.githubusercontent.com/112038669/223396724-acc6d212-6434-4a6d-80c3-de6da0c38d21.png" width="50%" height="50%"></p> 
 ---
