@@ -68,7 +68,7 @@
 ---
 
 ## 🫁 모델 결과
-<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229686688-a0825945-d30c-443a-9f04-c9403f00f198.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112038669/229686688-a0825945-d30c-443a-9f04-c9403f00f198.png" width="60%" height="60%"></p>
 
 
 
