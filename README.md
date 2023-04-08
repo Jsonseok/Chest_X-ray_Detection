@@ -16,6 +16,8 @@
 ---
 
 ## 🫁 데이터 분석 
+
+- 제공된 dicom 파일 분석
 <p align="center"><img src="https://user-images.githubusercontent.com/112038669/229672556-5c3d02b5-f1db-4ab4-ab81-2680a8322434.png" width="50%" height="50%"></p>
 
 
